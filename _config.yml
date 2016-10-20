@@ -1,0 +1,7 @@
+# Site settings
+title: TECHNO KANXA
+description: A Blog For Science and Technology Enthusiast
+keywords: Technokanxa, technology, technology nepal
+author: Bishwop Prakash Dhakal
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
