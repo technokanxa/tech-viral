@@ -1,5 +1,4 @@
----
-title: Download audio from youtube in your smart phone
+title: download audio from youtube on your smart phone
 date: 2016-10-22 12:12:12 Z
 subtitle: its easier than you thought
 author: Wferr
