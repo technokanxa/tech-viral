@@ -3,7 +3,7 @@ title: Youtube Audio
 date: 2016-10-22 00:00:00 +05:45
 subtitle: its easier than you thought
 author: bishwopr
-avatar: img/authors/wferr.png
+avatar: img/authors/bso.png
 image: img/f.jpg
 ---
 
@@ -28,6 +28,6 @@ The Peggo interface is very simple. On your home screen, just enter the video li
 If you want, enable the options “Remove Silence” (to remove the silence that starts and ends the clips) and “Normalize” (to equalize the volume). The user can also edit the title of the song and its artist. With everything ready, tap the blue button labelled “Record MP3”, the job will be placed in the internal list of downloads Peggo and a push notification will be issued when it finished downloading the document.
 
 download poggo from here 
-http://app.peggo.tv/download
+<link>http://app.peggo.tv/download<link/>
 
 thanks for reading......
