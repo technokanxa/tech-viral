@@ -1,6 +1,6 @@
 ---
 title: Download audio from youtube in your smart phone
-date: 2016-10-22 12:12:12 Z
+date: 2016-10-22 17:57:12 +05:45
 subtitle: its easier than you thought
 author: Wferr
 avatar: img/authors/wferr.png
