@@ -2,7 +2,7 @@
 title: Youtube Audio
 date: 2016-10-22 00:00:00 +05:45
 subtitle: its easier than you thought
-author: Wferr
+author: bishwopr
 avatar: img/authors/wferr.png
 image: img/f.jpg
 ---
@@ -18,7 +18,7 @@ The novelty is that the Peggo has been released for mobile devices, although at 
 
 It is very easy to use, but first, you must install the utility in an unconventional way. It is not yet being distributed on Google Play, so you need to click here to get the APK. Place the document in the memory of your smartphone (internal or SD card) and run it through a file manager of your choice.
 
-How To Access Blocked Website From Your Android Device
+
 
 ￼Peggo
 
