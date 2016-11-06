@@ -1,7 +1,10 @@
 ---
-layout: post
-title: Hoax Alert: No need to turn mobile phones off because there won’t be an influx of cosmic rays from Mars
-image: mars.jpeg
+title: Hoax Alert: No need to turn mobile phones off
+date: 2016-10-22 00:00:00 +05:45
+subtitle: because there won't be an influx of cosmic rays
+author: bishwopr
+avatar: img/authors/bso.png
+image: img/mars.jpeg
 ---
 Hoax Alert: No need to turn mobile phones off because there won’t be an influx of cosmic rays from Mars
 
