@@ -1,11 +1,8 @@
 ---
-title: Hoax Alert: No need to turn mobile phones off
-date: 2016-11-06 00:00:00 +05:45
-subtitle: because there won't be an influx of cosmic rays
-author: bishwopr
-avatar: img/authors/bso.png
-image: img/mars.jpeg
+title: 2016 11 06 Hoax Alert
+date: 2016-11-06 18:50:47.728000000 +05:45
 ---
+
 Hoax Alert: No need to turn mobile phones off because there won’t be an influx of cosmic rays from Mars
 
 This computer-generated view depicts part of Mars at the boundary between darkness and daylight, with an area including Gale Crater beginning to catch morning light, in this handout image provided by NASA. It may not be space debris, errant asteroids, supply shortages, thruster malfunctions or even the malevolent aliens envisioned in so many Hollywood films that thwart astronauts on any mission to Mars. It may be the ubiquitous galactic cosmic rays. Researchers said on May 1, 2015 long-term exposure to these rays that permeate space may cause dementia-like cognitive impairments in astronauts during any future round-trip Mars trip, expected to take at least 2-1/2 years.
