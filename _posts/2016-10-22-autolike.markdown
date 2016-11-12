@@ -7,7 +7,7 @@ avatar: img/authors/bso.png
 image: img/like.jpeg
 ---
 
-Do you want to get a lot of likes on facebook photos??
+<H1>Do you want to get a lot of likes on facebook photos??</H1>
 
 
 if you are crazy for facebook likes.. today i am sharing you an app to get likes on facebook..its called "apentalcal" (link on last of this post).You have to do nothing APP's UI is very simple . just open app login your fb.go to your picture to which you want more likes and click get likes on this photo at bottom.... Dont forgot to set your fb followers to public and dont like your own photo....your photo should be shared with public.....
